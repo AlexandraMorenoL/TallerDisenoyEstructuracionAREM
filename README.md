@@ -19,7 +19,7 @@ Incluye:
 3. [Requisitos](#-requisitos)  
 4. [Compilar y ejecutar](#compilar-y-ejecutar)  
 5. [Estructura del proyecto](#-estructura-del-proyecto)   
-6. [Imágenes con resultados](#-imágenes-con-resultados)  
+6. [Imágenes con resultados](#imágenes-con-resultados)  
 7. [Instalación](#-instalación)  
 8. [Contacto](#-contacto)  
 
