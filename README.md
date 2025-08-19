@@ -17,17 +17,11 @@ Incluye:
 1. [Descripción general](#-descripción-general)  
 2. [Características](#-características)  
 3. [Requisitos](#-requisitos)  
-4. [Instalación](#-instalación)  
-5. [Compilar y ejecutar](#-compilar-y-ejecutar)  
-6. [Estructura del proyecto](#-estructura-del-proyecto)  
-7. [Endpoints y uso](#-endpoints-y-uso)  
-8. [Frontend (demo) — comunicación asíncrona](#-frontend-demo--comunicación-asíncrona)  
-9. [Pruebas y evaluación realizadas](#-pruebas-y-evaluación-realizadas)  
-10. [Arquitectura y decisiones de diseño](#-arquitectura-y-decisiones-de-diseño)  
-11. [Limitaciones y mejoras futuras](#-limitaciones-y-mejoras-futuras)  
-12. [Cómo subir a GitHub (comandos)](#-cómo-subir-a-github-comandos)  
-13. [Licencia](#-licencia)  
-14. [Contacto](#-contacto)  
+4. [Compilar y ejecutar](#-compilar-y-ejecutar)  
+5. [Estructura del proyecto](#-estructura-del-proyecto)   
+6. [Imágenes con resultados](#-imágenes-con-resultados)  
+7. [Instalación](#-instalación)  
+8. [Contacto](#-contacto)  
 
 ---
 
